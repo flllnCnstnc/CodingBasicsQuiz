@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+}
+
+header {
+    color: navy;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    border-bottom: 4px solid darkblue;
+}
+
+.begin {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin-bottom: 5px;
+    background-color: white;
+    border:rgb(245, 181, 245);
+}
+
+.countdown {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    border: 4px solid darkblue;
+    background-color: white;
+}
